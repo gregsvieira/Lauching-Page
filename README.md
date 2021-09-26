@@ -32,7 +32,7 @@ This simple project was developed with the following technologies:
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/gregsvieira/Lauching-Page/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/gregsvieira/Lauching-Page/blob/main/LICENSE.md) for more information.
 
 ---
 
